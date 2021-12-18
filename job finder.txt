@@ -1,0 +1,6 @@
+Job Finder
+
+Idea: Unemployment is an issue that exists so job finder is meant to help with that issue. If someone is looking for a job, wether it be a part time job, summer job or a full time job they could find it here. If a company
+were looking for employees for whatever reason they could open the app and put up a job request, which would show what job or jobs are being asked for, how many people, what skills that person or people need,
+the location, work time etc. Once it is done it will be put up on a board of sorts where people can scroll through and look at jobs. If someone finds a job they want or they think they can do, they can apply for it.
+When applying a notification will be sent to the person who put up the job.
